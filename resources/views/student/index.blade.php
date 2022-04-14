@@ -41,7 +41,7 @@
                             <th>Name</th>
                             <th>Email</th>
                             <th>Password</th>
-                            <th>Action</th>
+                            <th>Action:</th>
                         </tr>
                     <tbody id="tbody">
                     </tbody>
